@@ -1,4 +1,4 @@
-# EDUVREx---Virtuall-Reality-App
+# Animals-AR-application
 
 ## To run the project:
 
